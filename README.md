@@ -7,10 +7,10 @@
 <!-- INFORMATION -->
 <h2 align="left"> :blue_book: About</h2> 
 
-<img src="GAIKAOS.png" alt="gaika-os" align="right" width="200px">
+<img src="GAIKAOS.png" alt="gaika-os" width="415px">
 
-This is my joke operating system written in python :)
-
+<h4>
+This is my joke operating system written in python :)</h4>
 </br>
 
 <!-- INSTALLATION -->
